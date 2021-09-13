@@ -1,0 +1,39 @@
+<annotation>
+	<folder>images</folder>
+	<filename>00000299.xml</filename>
+	<path>L:/Dataset/Mine/Plants/pepper_teach\resized/labels/00000299.xml00000299.xml</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>640</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fruit</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>282</ymin>
+			<xmax>627</xmax>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>423</xmin>
+			<ymin>288</ymin>
+			<xmax>509</xmax>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	
+</annotation>	
